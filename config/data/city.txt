@@ -1,0 +1,71 @@
+1,An Giang,880000
+2,Bà Rịa Vũng Tàu,790000
+3,Bạc Liêu,260000
+4,Bắc Kạn,960000
+5,Bắc Giang,220000
+6,Bắc Ninh,190000
+7,Bến Tre,930000
+8,Bình Dương,590000
+9,Bình Định,820000
+10,Bình Phước,830000
+11,Bình Thuận,800000
+12,Cà Mau,970000
+13,Cao Bằng,270000
+14,Cần Thơ,900000
+15,Đà Nẵng,550000
+16,Điện Biên,380000
+17,Đắk Lắk,630000
+18,Đắk Nông,640000
+19,Đồng Nai,810000
+20,Đồng Tháp,870000
+21,Gia Lai,600000
+22,Hà Giang,310000
+23,Hà Nam,400000
+24,Hà Nội,100000
+25,Hà Tĩnh,480000
+26,Hải Dương,170000
+27,Hải Phòng,180000
+28,Hậu Giang,910000
+29,Hòa Bình,350000
+30,TP Hồ Chí Minh,700000
+31,Hưng Yên,160000
+32,Khánh Hòa,650000
+33,Kiên Giang,920000
+34,Kon Tum,580000
+35,Lai Châu,390000
+36,Lạng Sơn,240000
+37,Lào Cai,330000
+38,Lâm Đồng,670000
+39,Long An,850000
+40,Nam Định,420000
+41,Nghệ An,460000
+42,Ninh Bình,430000
+43,Ninh Thuận,660000
+44,Phú Thọ,290000
+45,Phú Yên,620000
+46,Quảng Bình,510000
+47,Quảng Nam,560000
+48,Quảng Ngãi,570000
+49,Quảng Ninh,200000
+50,Quảng Trị,520000
+51,Sóc Trăng,950000
+52,Sơn La,360000
+53,Tây Ninh,840000
+54,Thái Bình,410000
+55,Thái Nguyên,250000
+56,Thanh Hóa,440000
+57,Thừa Thiên Huế,530000
+58,Tiền Giang,860000
+59,Trà Vinh,940000
+60,Tuyên Quang,300000
+61,Vĩnh Long,890000
+62,Vĩnh Phúc,280000
+63,Yên Bái,320000
+64,Đảo Phú Quý,804410
+65,Đảo Côn Sơn,78400
+66,Đảo Thổ Chu,92554
+67,Đảo Phú Quốc,92500
+68,Đảo Cô Tô,01406
+69,Đảo Cái Bầu,01300
+70,Đảo Cảnh Cước,01314
+71,Đảo Cát Bà,05406

@@ -1,0 +1,21 @@
+
+services:
+  mongodb: 
+    container_name: scoot-mongodb
+    image: mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+    volumes:
+      - data-mongodb:/data/db
+    networks:
+      - scoot
+    restart: unless-stopped
+networks:
+  scoot:
+    driver: bridge
+volumes:
+  data-mongodb:
+    driver: local

@@ -1,0 +1,135 @@
+                    Bảng Dữ liệu 
+Điểm mạnh: 
+ Bảng 1: 
+  Điều kiện| Điểm mạnh
+   20% ≤ %Mộc ≤ 50% | Tinh thần không ngừng phát triển, giàu lòng yêu thương.
+   20% ≤ %Hỏa ≤ 50% | Bản thân có nhiều năng lượng, có lòng hiếu lễ, ngay thẳng.
+   20% ≤ %Thổ ≤ 50% | Là người trung hậu, cân đối các mối quan hệ rất tốt, có trách nhiệm và sẵn sàng chia sẻ, bám sát quá trình để đạt được kết quả.
+   20% ≤ %Kim ≤ 50% | Là người trượng nghĩa, có ý chí phấn đấu, tỉ mỉ, tinh táo quả quyết.
+   20% ≤ %Thủy ≤ 50% | Là người nhạy bén, giỏi tính toán, xử sự khéo léo.
+   Mộc ≥ 20% và Hỏa ≥ 20% | Có khả năng đào tạo, có lợi thế trong việc nghiên cứu văn hóa nghệ thuật và tín ngưỡng.
+   Kim ≥ 20% và Thủy ≥ 20% | Có tư tưởng hiện đại, ý thức về tài chính từ sớm, có lợi thế trong việc thực hành, giao tiếp.
+   8% < %Ấn Tinh < 50%, %MC ≤ 20%, và trên Thiên Can hoặc bản khí của Địa Chi xuất hiện Chính Ấn | Là người chu đáo, ổn trọng, giàu tinh thần cống hiến.
+   8% < %Quan Sát < 50%, %MC ≥ 20%, và trên Thiên Can hoặc bản khí của Địa Chi xuất hiện Chính Quan không xuất hiện Thất Sát, và % Thực Thương < 50% | Là người có kế hoạch rõ ràng, tuân thủ nguyên tắc, cẩn thận.
+   8% < %Tài Tinh < 50%, %MC ≥ 20%, và trên Thiên Can hoặc bản khí của Địa Chi xuất hiện Chính Tài | Là người ôn hòa, siêng năng, không vội vàng cầu thành.
+   8% < %Thực Thương < 50%, %MC ≥ 20%, và trên Thiên Can hoặc bản khí của Địa Chi xuất hiện Thực Thần | Thông minh, khéo léo.
+   8% < %Tài Tinh < 50%, %MC ≥ 20%, và trên Thiên Can hoặc bản khí của Địa Chi xuất hiện Thiên Tài | Có nhiều tư tưởng đổi mới, có mắt đánh giá.
+   Bản khí Địa Chi ngày là Tỷ Kiếp | Là người tự lực tự cường.
+
+ Bảng 2: 
+  Điểm mạnh: Có năng lực quản lý nhân sự
+  Điều kiện:
+   Thiên Can có Kiếp Tài đứng cạnh Chính Quan hoặc Thực Thần
+   Thiên Can là Chính Quan, bản khí Địa Chi cùng trụ là Kiếp Tài
+   Thiên Can là Kiếp Tài, Địa Chi cùng trụ là Thực Thần hoặc Thiên Can là Thực Thần, Địa Chi cùng trụ là Kiếp Tài
+   Thiên Can ngày là Giáp, trong tứ trụ có Địa Chi Mão và Dậu đứng cạnh nhau
+   Thiên Can ngày là Ất, trong Tứ Trụ có Địa Chi Dần và Ngọ đứng cạnh nhau hoặc Địa Chi Dần và Thân đứng cạnh nhau
+   Thiên Can ngày là Bính, trong tứ trụ có Địa Chi Ngọ đứng cạnh Tuất hoặc Ngọ đứng cạnh Tý
+   Thiên Can ngày là Đinh, trong Tứ trụ có Địa Chi Tỵ đứng cạnh Hợi
+   Thiên Can ngày là Mậu, trong Tứ trụ có Địa Chi Mùi đứng cạnh Địa Chi Mão
+   Thiên Can ngày là Kỷ, trong Tứ trụ có Địa Chi Thìn đứng cạnh Dậu hoặc Tuất đứng cạnh Dậu
+   Thiên Can ngày là Tân, trong Tứ trụ có Địa Chi Thân đứng cạnh Địa Chi Tý hoặc Địa Chi Thân đứng cạnh Địa Chi Tỵ
+   Thiên Can ngày là Nhâm, trong Tứ trụ có Địa Chi Tý đứng cạnh Địa Chi Sửu hoặc Mùi
+   Thiên Can ngày là Quý, trong Tứ trụ có Địa Chi Hợi đứng cạnh Địa Chi Mão
+
+ Bảng 3: 
+  Điểm mạnh: Có kỹ thuật, kỹ năng đáp ứng được các công việc đòi hỏi sự tỉ mỉ tay nghề cao.
+  Điều kiện:
+   Thiên Can có Thương Quan đứng cạnh Chính Ấn hoặc Tài Tinh
+   Thiên Can là Thương Quan, Địa Chi cùng trụ là Tài Tinh hoặc Thiên Can là Tài Tinh, Địa Chi cùng trụ là Thương Quan
+   Thiên Can là Chính Ấn, Địa Chi cùng trụ là Thương Quan
+   Thiên Can ngày là Giáp, trong Tứ trụ có Địa Chi Ngọ đứng cạnh Địa Chi Tuất hoặc Sửu hoặc Mùi hoặc Tý
+   Thiên Can ngày là Ất, trong Tứ trụ có Địa Chi Tỵ đứng cạnh Địa Chi Hợi
+   Thiên Can ngày là Bính, trong Tứ trụ có Địa Chi Sửu đứng cạnh Địa Chi Dậu hoặc Địa Chi Mão đứng cạnh Địa Chi Mùi
+   Thiên Can ngày là Đinh, trong Tứ trụ có Địa Chi Thìn đứng cạnh Địa Chi Dậu hoặc Địa Chi Tuất đứng cạnh Địa Chi Dậu hoặc Địa Chi Dần đứng cạnh Địa Chi Tuất
+   Thiên Can ngày là Kỷ, trong Tứ trụ có Địa Chi Thân đứng cạnh Địa Chi Tý hoặc Hợi hoặc Tỵ
+   Thiên Can ngày là Canh, trong Tứ trụ có Địa Chi Tý đứng cạnh Địa Chi Mão hoặc Sửu hoặc Mùi
+   Thiên Can ngày là Tân, trong Tứ trụ có Địa Chi Hợi đứng cạnh Địa Chi Mão hoặc Địa Chi Dần
+   Thiên Can ngày là Nhâm, trong Tứ trụ có Địa Chi Mão đứng cạnh Địa Chi Ngọ hoặc Dậu
+   Thiên Can ngày là Quý, trong Tứ trụ có Địa Chi Dần đứng cạnh Địa Chi Tỵ hoặc Ngọ hoặc Thân
+
+ Bảng 4: 
+  Điểm mạnh: Người thông minh, nắm bắt rất tốt các cơ hội và nguồn lực.
+  Điều kiện:
+   Thiên Can có Thiên Ấn đứng cạnh Thiên Can Tỷ Kiếp hoặc Tài Tinh
+   Thiên Can có Thiên Ấn, Địa Chi cùng trụ là Tỷ Kiên hoặc Thiên Can là Tỷ Kiên, Địa Chi cùng trụ là Thiên Ấn
+   Thiên Can là Tài Tinh, Địa Chi cùng trụ là Thiên Ấn
+   Thiên Can ngày là Giáp, trong Tứ trụ có Địa Chi Hợi đứng cạnh Địa Chi Dần
+   Thiên Can ngày là Ất, trong Tứ trụ có Địa Chi Tý đứng cạnh Địa Chi Sửu hoặc Mùi hoặc Thìn hoặc Mão
+   Thiên Can ngày là Bính, trong Tứ trụ có Địa Chi Dần đứng cạnh Địa Chi Thân hoặc Tỵ
+   Thiên Can ngày là Đinh, trong Tứ trụ có Địa Chi Mão đứng cạnh Địa Chi Dậu hoặc Ngọ
+   Thiên Can ngày là Mậu, trong Tứ trụ có Địa Chi Tỵ đứng cạnh Địa Chi Hợi
+   Thiên Can ngày là Kỷ, trong Tứ trụ có Địa Chi Ngọ đứng cạnh Địa Chi Tý hoặc Sửu hoặc Mùi
+   Thiên Can ngày là Canh, trong Tứ trụ có Địa Chi Tuất đứng cạnh Địa Chi Dần hoặc Mão hoặc Địa Chi Thìn đứng cạnh Địa Chi Mão
+   Thiên Can ngày là Tân, trong Tứ trụ có Địa Chi Sửu đứng cạnh Địa Chi Dần hoặc Địa Chi Mùi đứng cạnh Địa Chi Mão hoặc Địa Chi Sửu đứng cạnh Địa Chi Dậu
+   Thiên Can ngày là Nhâm, trong Tứ trụ có Địa Chi Thân đứng cạnh Địa Chi Tỵ hoặc Hợi
+   Thiên Can ngày là Quý, trong Tứ trụ có Địa Chi Dậu đứng cạnh Địa Chi Tỵ hoặc Tý
+
+Điểm yếu: 
+ Bảng 5: 
+  Điều kiện | Điểm yếu
+   % Mộc > 50% | Không quá hiện thực, dễ dàng bị chi phối bởi cảm xúc.
+   % Mộc < 8% | Tinh thần học tập không cao.
+   % Hỏa > 50% | Tính tình nóng nảy, trong lòng khó giấu được lời nói.
+   % Hỏa < 8% | Thiếu nhiệt huyết, ít niềm vui.
+   % Thổ > 50% | Hay nghi ngờ, so đo với người khác.
+   % Thổ < 8% | Suy nghĩ ít thiết thực, dễ bị cám dỗ.
+   % Kim > 50% | Quá nguyên tắc, nhiều khi vô tâm, dễ làm tổn thương người khác.
+   % Kim < 8% | Nhút nhát, tư duy thiếu tính khoa học.
+   % Thủy > 50% | Bản thân hay thay đổi, dễ bị danh lợi dụ hoặc, gặp nhiều thị phi.
+   % Thủy < 8% | Khả năng ứng biến hạn chế, thường phải suy nghĩ nhiều trước khi hành động.
+   % Kim < 8% và % Thủy < 8% | Bản thân không giỏi giao tiếp.
+   % Mộc < 8% và % Hỏa < 8% | Bản thân không giỏi trong việc học lý thuyết.
+   % Mộc ≥ 50% và % Hỏa < 8% | Bản thân ham học hỏi nhưng thiếu sự đúc kết.
+   % Hỏa ≥ 50% và % Mộc < 8% | Lời nói hoa mỹ nhưng thiếu sự sâu sắc bên trong.
+   % Kim ≥ 50% và % Thủy < 8% | Bản thân quá tập trung vào thao tác làm cho suy nghĩ kém linh hoạt.
+   % Thủy ≥ 50% và % Kim < 8% | Bản thân nghĩ nhiều nhưng ít thao tác.
+   % Mộc < 20% và xuất hiện Thất Sát và không có Ấn Tinh và Thực Thương | Lo nghĩ nhiều, bất an.
+   % Mộc ≥ 20% và xuất hiện Thất Sát và không có Ấn Tinh và Thực Thương | Dễ nổi giận, cáu gắt.
+   Thiên Can xuất hiện Kiếp Tài và không có Quan Sát và Thực Thương, hoặc % Tỷ Kiếp ≥ 50% | Võ đoán, khó tiếp nhận ý kiến từ người khác.
+   Thiên Can xuất hiện Thương Quan và không có Ấn Tinh và Tài Tinh | Tư tưởng dễ dẫn đến thái quá.
+   Thiên Can xuất hiện Kiêu Thần và không có Tài Tinh và Tỷ Kiếp | Khó gần gũi được với người xung quanh.
+   % Ấn Tinh ≥ 50% | Bản thân không ham cầu tiến.
+   % Quan Sát ≥ 50% | Bản thân hay gặp nhiều áp lực.
+   % Tài Tinh ≥ 50% | Bị ảnh hưởng nhiều bởi vấn đề tài chính.
+   % Thực Thương ≥ 50% | Hướng tới sự tự do, sáng tạo nên khó tuân theo được nguyên tắc khuôn khổ.
+
+Lợi ích khi đi về phương hướng và địa điểm đã đề xuất.: 
+ Bảng 6: 
+   Điều kiện  | Phương diện tốt
+   % Mộc < 20% and Dụng – Hỷ Thần is Mộc | Giúp bản thân suy nghĩ thêm tích cực, gắn kết với mọi người tốt hơn.
+   % Hỏa < 20% and Dụng – Hỷ Thần is Hỏa | Giúp bản thân có nhiều năng lượng hơn.
+   % Thổ < 20% and Dụng – Hỷ Thần is Thổ | Giúp bản thân cân đối được các mối quan hệ tốt hơn.
+   % Kim < 20% and Dụng – Hỷ Thần is Kim | Giúp tăng động lực cho bản thân để nỗ lực và phát triển.
+   % Thủy < 20% and Dụng – Hỷ Thần is Thủy | Giúp tăng sự nhạy bén, sử sự khéo léo.
+   Trên Thiên Can hoặc bản khí Địa Chi xuất hiện Chính Quan and % Quan Sát < 20% and Dụng – Hỷ Thần is Quan Sát | Giúp bản thân định ra được những kế hoạch rõ ràng, thúc đẩy sự phát triển.
+   Trên Thiên Can hoặc bản khí Địa Chi xuất hiện Chính Tài and % Tài Tinh < 20% and Dụng – Hỷ Thần is Tài Tinh | Giúp bản thân thêm chăm chỉ, có những mục tiêu dài hạn.
+   Trên Thiên Can hoặc bản khí Địa Chi xuất hiện Thiên Tài and % Tài Tinh < 20% and Dụng – Hỷ Thần is Tài Tinh | Giúp có những ý tưởng mới.
+   Trên Thiên Can hoặc bản khí Địa Chi xuất hiện Chính Ấn and % Ấn Tinh < 20% and Dụng – Hỷ Thần is Ấn Tinh | Giúp bản thân thêm ổn trọng.
+   Trên Thiên Can hoặc bản khí Địa Chi xuất hiện Thực Thần and % Thực Thương < 20% and Dụng – Hỷ Thần is Thực Thương | Giúp bản thân thêm linh hoạt, khéo léo.
+   %MC < 20% and Dụng – Hỷ Thần is Tỷ Kiếp | Giúp bản thân thêm tự tin, các mối quan hệ với đồng nghiệp tốt hơn.
+   Mộc ≥ 20% and Hỏa < 8% and Dụng – Hỷ Thần is Hỏa | Giúp bản thân học tập nghiên cứu tốt hơn.
+   Hỏa ≥ 20% and Mộc < 8% and Dụng – Hỷ Thần is Mộc | Giúp lời nói và kiến thức của bản thân sâu sắc hơn.
+   Kim ≥ 20% and Thủy < 8% and Dụng – Hỷ Thần is Thủy | Giúp cho thao tác, kỹ năng của bản thân thêm linh hoạt.
+   Thủy ≥ 20% and Kim < 8% and Dụng – Hỷ Thần is Kim | Giúp bản thân chuyển hóa từ ý tưởng sang hành động tốt hơn.
+   Mệnh Chủ nhược cực and Dụng – Hỷ Thần bổ sung là Dụng Hỷ Thần vượng suy | Giúp bản thân nhất quán với những quyết định đã đưa ra.
+   Mệnh Chủ quá nhược and Dụng – Hỷ Thần bổ sung là Dụng Hỷ Thần vượng suy | Giúp bản thân không bị bốc đồng mà gây ra chuyện.
+   Mệnh Chủ nhược hoặc vượng and Dụng – Hỷ Thần bổ sung là Dụng – Hỷ Thần vượng suy | Giúp bản thân cân bằng hơn ở các phương diện trong cuộc sống.
+   Mệnh Chủ quá vượng and Dụng – Hỷ Thần bổ sung là Dụng – Hỷ Thần vượng suy | Giúp bản thân cân bằng hơn ở các phương diện trong cuộc sống.
+   Mệnh Chủ vượng cực and Dụng – Hỷ Thần bổ sung là Thực Thương and là Dụng – Hỷ Thần vượng suy | Giúp bản thân cân bằng hơn ở các phương diện trong cuộc sống.
+   Mệnh Chủ vượng cực and Dụng – Hỷ Thần bổ sung là Ấn Tinh hoặc Tỷ Kiếp and là Dụng – Hỷ Thần vượng suy | Giúp bản thân nhất quán với những quyết định đã đưa ra.
+   Nhật chủ bình hòa and Dụng – Hỷ Thần bổ sung là Ấn Tinh is Dụng – Hỷ Thần vượng suy | Giúp bản thân giảm bớt áp lực trong công việc.
+   Nhật chủ bình hòa and Dụng – Hỷ Thần bổ sung is Tỷ Kiếp is Dụng – Hỷ Thần vượng suy | Giúp bản thân sử dụng hiệu quả các sự giúp đỡ.
+   Nhật chủ bình hòa and Dụng – Hỷ Thần bổ sung is Quan Sát is Dụng – Hỷ Thần vượng suy | Giúp bản thân bớt ảnh hưởng bởi vấn đề tiền tài danh vọng.
+   Nhật chủ bình hòa and Dụng – Hỷ Thần bổ sung is Tài Tinh is Dụng – Hỷ Thần vượng suy | Giúp bản thân có những ý tưởng thực tế hơn.
+   Dụng – Hỷ Thần is Dụng Thần điều hậu and is hành Thủy | Giúp bản thân ôn hòa hơn, không bị cuốn vào quá mức trước các mục tiêu.
+   Dụng – Hỷ Thần is Dụng Thần điều hậu and is hành Hỏa | Giúp bản thân nhiệt huyết hơn, xác định được mục tiêu rõ hơn.
+   Quan Sát ≥ 35% and Dụng – Hỷ Thần is Ấn Tinh | Bản thân nhận được sự giúp đỡ hoặc kiến thức để giảm bớt áp lực.
+   Quan Sát ≥ 35% and Dụng – Hỷ Thần is Thực Thương | Giúp bản thân cải thiện kỹ năng để hoàn thành mọi việc tốt hơn.
+   Ấn Tinh ≥ 35% and Dụng – Hỷ Thần is Tài Tinh | Giúp bản thân ứng dụng kiến thức vào thực tế tốt hơn.
+   Tỷ Kiếp ≥ 35% and Dụng – Hỷ Thần is Thực Thần | Giúp bản thân đón nhận những ý tưởng mới tốt hơn.
+   Tỷ Kiếp ≥ 35% and Dụng – Hỷ Thần is Quan Sát | Giúp bản thân tuân theo nguyên tắc tốt hơn.
+   Thực Thương ≥ 35% and Dụng – Hỷ Thần is Tài | Giúp những ý tưởng, sản phẩm của bản thân đem lại những lợi ích tốt hơn.
+   Thực Thương ≥ 35% and Dụng – Hỷ Thần is Ấn Tinh | Giúp những ý tưởng, sự thông minh của bản thân được sử dụng tốt hơn, đúng chỗ.
+   Tài Tinh ≥ 35% and Dụng – Hỷ Thần is Quan Sát | Giúp nguồn lực tài chính của bản thân ổn định hơn.
+   Nếu Tài Tinh ≥ 35% và Dụng – Hỷ Thần là Tỷ Kiếp. | Giúp bản thân nắm bắt các cơ hội tốt hơn.
